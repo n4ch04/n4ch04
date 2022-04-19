@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**n4ch04/n4ch04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nacho Rivera, a security engineer from 🇪🇸 Spain.
 
-Here are some ideas to get you started:
+🔒  Former Security engineer at [Telefonica](https://www.telefonica.com/es/) and [Devo](https://www.devo.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+   <a href="https://www.linkedin.com/in/ignacio-rivera-corull%C3%B3n-155470105/">
+     <img src="https://img.shields.io/badge/-@jfagoagas-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jfagoagas/" alt="LinkedIn Badge">
+  </a>
+    <a href="https://github.com/n4ch04">
+    <img height="20" src="https://img.shields.io/github/followers/jfagoagas?label=follow&logo=github&style=flat-square" />
+  </a>
+</p>
